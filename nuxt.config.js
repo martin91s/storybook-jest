@@ -45,6 +45,10 @@ export default {
     baseURL: '/',
   },
 
+  storybook: {
+    // Options
+  },
+
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {
   }
